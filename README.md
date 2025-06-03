@@ -6,6 +6,10 @@ Built with ❤️ for the TransIRC project and retro-modern terminal workflows.
 
 ---
 
+![Session Manager Screenshot](screenshot_tmux_session_manager.png)
+
+---
+
 ## ✨ Features
 
 - 📊 Rich table UI for tmux session details (created time, attachment state, duration, current window, logged IP)
